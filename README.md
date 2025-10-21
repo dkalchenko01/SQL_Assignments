@@ -1,4 +1,4 @@
-# Asignment 2 
+# Assignment 2 
 
 This assignment includes AI generated query optimization by the usage CTEs, indexes and query rewriting.
 
